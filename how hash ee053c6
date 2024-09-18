@@ -1,0 +1,34 @@
+[33m4060de0[m[33m ([m[1;36mHEAD[m[33m)[m Merge remote-tracking branch 'origin/main'
+[33mee053c6[m Project 1.0v
+[33m763810a[m Update readme.md
+[33m420f632[m Merge remote-tracking branch 'origin/main'
+[33m83c4cb2[m Added a jar file (JavaFX)
+[33mff4c20a[m Added the "Clear" button and a window that informs about successful execution
+[33m8ceea6b[m Update readme.md
+[33mb2c7eaa[m The language is determined automatically
+[33md250c6e[m Moved the functionality from Main to another class
+[33m9aef289[m Simplified Main
+[33m3b91879[m Added frequency analysis
+[33m8711801[m Created variable frequencyAnalysisFilePath
+[33m2118495[m Added a command for frequency analysis
+[33m3424bec[m Added the Runner class, removed the extra code in Main, the program is launched from the console
+[33mb7610ec[m Added Scanner to main, there will be changes in the future
+[33m90fe252[m Split the BruteForce class and replaced some static methods with non-static ones
+[33m0dca3fd[m Moved the classes from my project to the fork for testing
+[33ma27ba96[m Cleaned the code
+[33m526862e[m Merge pull request #2 from JavaRush-GNEW/stepan
+[33m6e7f231[m Merge pull request #1 from JavaRush-GNEW/ivan
+[33m6cd28f2[m Changed the alphabet constructor
+[33ma12a754[m Removed space
+[33md7c61f8[m Merge remote-tracking branch 'origin/main'
+[33m0e96329[m Removed error message at all
+[33m1246197[m Removed error string
+[33mdbd038c[m Merge remote-tracking branch 'origin/main'
+[33md41af3c[m improved error message
+[33me019f58[m Removed spaces and comments
+[33m61aa9c1[m Removed spaces
+[33mbd7dcab[m Adjust tests
+[33m58e8c80[m test commit
+[33mc675f5b[m update
+[33mad30f49[m fork sync test
+[33m61e1166[m init
